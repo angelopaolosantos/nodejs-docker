@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-docker",
+  "version": "1.0.0",
+  "description": "Deploy NodeJS in Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Angelo Paolo Santos <angelopaolosantos@gmail.com",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
